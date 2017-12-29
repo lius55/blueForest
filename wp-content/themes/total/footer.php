@@ -51,9 +51,7 @@
 		<div id="ht-bottom-footer">
 			<div class="ht-container">
 				<div class="ht-site-info">
-					<?php printf( esc_html__( 'WordPress Theme', 'total' ) ); ?>
-					<span class="sep"> | </span>
-					<?php printf( esc_html__( '%1$s by %2$s', 'total' ), '<a href="https://hashthemes.com/wordpress-theme/total/" target="_blank">Total</a>', 'Hash Themes' ); ?>
+					Copyright @ 合同会社 ブルーフォレスト貿易
 				</div><!-- #site-info -->
 			</div>
 		</div>
