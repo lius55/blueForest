@@ -58,8 +58,6 @@ if( is_home() && 'page' == get_option( 'show_on_front' )){
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
-<?php get_sidebar(); ?>
-
 </div>
 
 <?php get_footer();
